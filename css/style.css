@@ -1,0 +1,51 @@
+h1 {
+    color:#C262AF  ;
+    text-align: center;
+    font-size: 45px;
+}
+body{
+    background-color:#F2F2F2;
+}
+footer{
+    color: #C262AF;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 815px;
+    padding: 5px;
+    border-style: solid;
+    border-bottom: #C262AF;
+    border-left: #C262AF;
+    border-right: #C262AF ;
+    width: 600px;
+    margin-left:640px ;
+}
+#caja1{
+    border-color: black;
+    padding: 25px;
+    background-color: white;
+    float: left ;
+    width: 300px;
+    margin-left:420px
+}
+#caja2{
+    text-align: center;
+    border-color: black;
+    padding: 25px;
+    background-color: white;
+    float: left ;
+    width: 260px;
+    margin-left:20px;
+    margin-top: 200px;
+}
+#imagen2{
+width: 250px;
+}
+#caja3{
+    border-color: black;
+    padding: 25px;
+    background-color: white;
+    float: left ;
+    width: 300px;
+    margin-left:20px;
+    text-align:center
+}
